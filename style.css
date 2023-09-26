@@ -375,6 +375,21 @@ article .icon {
   color: black;
 }
 
+.features-container {
+  margin: 0 10%;
+  /* width: 90%; */
+}
+
+.app-features {
+  text-align: start;
+  margin-bottom: 30px;
+}
+
+.btn-bottom {
+  /* position: absolute; */
+  /* bottom: 0; */
+}
+
 .project-btn {
   color: black;
   border-color: rgb(163, 163, 163);
